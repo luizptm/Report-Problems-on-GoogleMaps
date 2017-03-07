@@ -1,0 +1,212 @@
+#icons-pt-estrada {
+	float:left; 
+	margin-top:20px;
+	background-color:#FFFFFF;
+	text-align:left;
+	box-shadow: 0.2em 0.2em 0.3em grey;	
+	width:40%;
+}
+
+#icons-pt-estrada p {
+	background-color: #E2E2E2;
+    border-bottom: 4px solid #F2F2F2;
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding: 5px 15px;
+    font-weight: bold;
+}
+
+#icons-pt-estrada li {
+    float: left;
+    font-size: 13px;
+    height: 35px;
+    line-height: 32px;
+    margin: 0 10px 5px;
+	width:300px;
+}
+
+#icons-pt-estrada li div {
+	margin-bottom:10px;
+	margin-right:5px;
+	float:left;
+}
+
+/* LOGIN */
+#pt-estrada-pop-login {
+    width: auto;
+    font-family: verdana;
+    overflow-x: hidden;
+	max-width: 280px;
+}
+
+#pt-estrada-pop-login h4 {
+    font-size: 12px;
+    font-weight: bold;
+    height: 18px;
+    line-height: 18px;
+    margin: 3px 0 7px 2px;
+    text-align:left;
+}
+
+#pt-estrada-pop-login div {
+    margin-bottom:6px; 
+    text-align:right; 
+    font-size:11px;
+}
+
+#pt-estrada-pop-login p {
+    text-align:right;
+}
+
+#pt-estrada-pop-login input {
+    margin-left:10px;
+    width:70%;  
+}
+
+/* POP FOR ACTIONS AND VIEW */
+#pt-estrada-pop {
+    width: auto;
+    font-family: verdana;
+    text-align:left;
+    overflow-x: hidden; 
+}
+
+#pt-estrada-pop h4 {
+    font-family: verdana;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0 0 8px 0px;
+	max-width:280px;
+}
+
+#pt-estrada-pop #addressPopup {
+	height:15px;
+}
+
+#pt-estrada-pop .img {
+	box-shadow: 0.1em 0.1em 0.2em black;
+    padding: 10px;
+    width: 90%;
+	max-height:200px;
+	max-width:290px;
+}
+
+#pt-estrada-pop .desc {
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #999;
+	max-width: 280px;
+	padding-top: 10px;
+}
+
+#pt-estrada-pop .local {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #9A9A9A;
+	max-width:280px;
+}
+
+#pt-estrada-pop .date {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #9A9A9A;
+	max-width:280px;
+}
+
+#pt-estrada-pop .user {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+#pt-estrada-pop .remove {
+	padding-top: 20px;
+	float: right;
+}
+
+#pt-estrada-pop .share {
+	width:84px;
+	height:45px;
+}
+
+#pt-estrada-pop input {
+	font-size:11px;
+}
+
+#pt-estrada-pop textarea {
+	font-size:9px;
+	height: 70px;
+    width: 300px;
+	resize: none;
+}
+
+#pt-estrada-pop p {
+	line-height:22px;
+	height:18px;
+	font-size:11px;
+}
+
+#pt-estrada-pop div {
+	line-height:18px;
+	height:18px;
+	margin-bottom:5px;
+	height: 100%;
+	font-size:11px;
+}
+
+.tooltip {
+	border: 4px solid #FFF;
+	font-size:9pt;
+	background-color:#FFF;
+	text-align:center;
+	white-space:nowrap;
+}
+
+#conditions {
+    padding: 10px;
+}
+
+.themeMenu .accordion ul li {
+    clear: both;
+	background-color: #FFFFFF;
+}
+
+.themeMenu .accordion ul li a {
+    padding: 8px 4px 8px 5px;
+}
+
+.themeMenu .accordion ul li a.active {
+    background: none repeat scroll 0 0 #88B73E;
+    color: White;
+    margin-left: -1px;
+    width: auto;
+}
+
+.MsgError {
+    color: #E60000;
+    font-size: 11px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.MsgSucess {
+    color: #0B8F40;
+    font-size: 11px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.CreationDate {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	color: #9A9A9A;
+	max-width:280px;
+}
+
+h2.accordion { cursor: pointer; font-size: 11px !important; }
+div.accordion { cursor: pointer; display: none; }
